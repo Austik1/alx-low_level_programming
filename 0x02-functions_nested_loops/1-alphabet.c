@@ -1,12 +1,10 @@
 #include "main.h"
 
-
-	/**
- * print_alphabet_x10 - Prints the lowercase alphabet 10 times
+/**
+ * print_alphabet - Prints the lowercase alphabet
  *
  * Return: void
  */
-
 	void print_alphabet(void)
 	{
 		char letter;
